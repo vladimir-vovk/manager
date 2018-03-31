@@ -18,5 +18,5 @@ Authorization and data storage are performed using Firebase. To control the stat
 3. Run this project with
 
 ```
-react-native run_ios
+react-native run-ios
 ```
